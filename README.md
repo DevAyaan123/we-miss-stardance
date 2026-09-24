@@ -1,5 +1,5 @@
 # We miss Stardance 
-its a personal website for me 
+its a site for the memories to recall of stardance
 
 ## Description
 I built for Hack Club For Stardance

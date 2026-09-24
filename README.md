@@ -1,2 +1,16 @@
-# we-miss-stardance
-As we all like stardance by hack club we will leave it a surprise
+# We miss Stardance 
+its a personal website for me 
+
+## Description
+I built for Hack Club For Stardance
+It has a surprise for stardance
+It has
+all about stardancers!!
+
+## Built With
+HTML
+
+## To Run The Program
+Copy the code in an Html Editor and run it
+
+## live demo
